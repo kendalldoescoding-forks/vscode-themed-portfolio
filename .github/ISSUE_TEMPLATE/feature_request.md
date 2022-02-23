@@ -3,7 +3,7 @@ name: "⭐ Submit a feature request"
 about: 'Please drop in your feature request here, I will consider adding it to this template.
 title: 'Feature request: (Please mention the feature you would like to see here)'
 labels: 'feature'
-assignees:
+assignees: Kira27292
 
 ---
 **Is your feature request related to a problem? Please describe.**
