@@ -29,6 +29,7 @@ Thanks a lot for taking your time out and contributing to this project 🙌
     <td align="center"><a href="https://www.roewynumayam.com"><img src="https://avatars.githubusercontent.com/u/61628982?v=4" width="100px;" alt=""/><br /><sub><b>Roewyn Umayam</b></sub></a></td>
     <td align="center"><a href="https://kendalldoescoding.gq"><img src="https://avatars.githubusercontent.com/u/84712013?v=4" width="100px;" alt=""/><br /><sub><b>Kendall Pinto</b></sub></a></td>
     <td align="center"><a href="https://www.youtube.com/channel/UCzb9_b2UY29xuY-S8BsmpOg"><img src="https://avatars.githubusercontent.com/u/76978184?v=4" width="100px;" alt=""/><br /><sub><b>TechStudent10</b></sub></a></td>
+    <td align="center"><a href="https://github.com/sri-nivas1227"><img src="https://avatars.githubusercontent.com/u/83027963?v=4" width="100px;" alt=""/><br /><sub><b>Srinivas Mekala</b></sub></a></td>
   </tr>
 </table>
 
