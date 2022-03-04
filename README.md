@@ -26,6 +26,7 @@ Thanks a lot for taking your time out and contributing to this project 🙌
 <table>
   <tr>
     <td align="center"><a href="https://github.com/shockz09"><img src="https://avatars.githubusercontent.com/u/87615572?v=4" width="100px;" alt=""/><br /><sub><b>Rohit Mishra</b></sub></a></td>
+    <td align="center"><a href="https://www.roewynumayam.com"><img src="https://avatars.githubusercontent.com/u/61628982?v=4" width="100px;" alt=""/><br /><sub><b>Roewyn Umayam</b></sub></a></td>
   </tr>
 </table>
 

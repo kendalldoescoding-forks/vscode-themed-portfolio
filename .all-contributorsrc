@@ -18,6 +18,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Umayarz18",
+      "name": "Roewyn Umayam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61628982?v=4",
+      "profile": "https://www.roewynumayam.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "projectName": "vscode-themed-portfolio",
