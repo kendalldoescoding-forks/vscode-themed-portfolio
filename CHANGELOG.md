@@ -1,3 +1,12 @@
+## [0.3.1](https://github.com/Kira272921/vscode-themed-portfolio/compare/v0.3.0...v0.3.1) (2022-03-06)
+
+
+### Bug Fixes
+
+* ✏ fix typos in data.json file ([6416adb](https://github.com/Kira272921/vscode-themed-portfolio/commit/6416adbeb3d4493d9a0edbb38f9e5cc765604a84))
+
+
+
 # [0.3.0](https://github.com/Kira272921/vscode-themed-portfolio/compare/v0.1.0...v0.3.0) (2022-03-06)
 
 
