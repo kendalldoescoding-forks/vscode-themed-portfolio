@@ -32,6 +32,9 @@
   ],
   "projects": [
     {
+      "name": "Soldity Quickstart",
+      "url": "https://links.kiradev.co/project/solidity-quickstart"
+    {
       "name": "VSCode themed portfolio",
       "url": "https://links.kiradev.co/project/vsc-portfolio"
     },
